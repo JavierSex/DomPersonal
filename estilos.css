@@ -2,6 +2,8 @@
 
 .menuDufen{background-color:indigo ;}
 
+.menuPhineasyFerb{background-color: red;}
+
 .alineado{
     text-align: center;
     font-size: 38px;
@@ -9,4 +11,8 @@
 
 .fuenteDufen{
     color:indigo;
+}
+
+.fuentePerry{
+    color: #00B1B1;
 }
